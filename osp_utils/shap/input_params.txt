@@ -1,0 +1,1 @@
+start=14400 stop=14450 step=50 coalition=3000

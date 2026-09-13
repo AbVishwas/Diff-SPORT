@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Diff-SPORT: Diffusion-based sensor placement optimization and reconstruction of turbulent flows in urban environments"
+type: software
+license: MIT
+repository-code: "https://github.com/AbVishwas/Diff-SPORT"
+authors:
+  - family-names: Vishwasrao
+    given-names: Abhijeet
+  - family-names: Gutha
+    given-names: Sai Bharath Chandra
+  - family-names: Cremades
+    given-names: Andres
+  - family-names: Wijk
+    given-names: Klas
+  - family-names: Patil
+    given-names: Aakash
+  - family-names: Lim
+    given-names: H. D.
+  - family-names: Vanderwel
+    given-names: Christina
+  - family-names: Gorle
+    given-names: Catherine
+  - family-names: McKeon
+    given-names: Beverley J.
+  - family-names: Azizpour
+    given-names: Hossein
+  - family-names: Vinuesa
+    given-names: Ricardo
+preferred-citation:
+  type: article
+  title: "Diffusion-based sensor placement optimization and reconstruction of turbulent flows in urban environments"
+  authors:
+    - family-names: Vishwasrao
+      given-names: Abhijeet
+    - family-names: Gutha
+      given-names: Sai Bharath Chandra
+    - family-names: Cremades
+      given-names: Andres
+    - family-names: Wijk
+      given-names: Klas
+    - family-names: Patil
+      given-names: Aakash
+    - family-names: Lim
+      given-names: H. D.
+    - family-names: Vanderwel
+      given-names: Christina
+    - family-names: Gorle
+      given-names: Catherine
+    - family-names: McKeon
+      given-names: Beverley J.
+    - family-names: Azizpour
+      given-names: Hossein
+    - family-names: Vinuesa
+      given-names: Ricardo
+  journal: "arXiv preprint"
+  year: 2025
+  doi: 10.48550/arXiv.2506.00214
+  url: "https://arxiv.org/abs/2506.00214"
