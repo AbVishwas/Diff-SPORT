@@ -6,8 +6,8 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
 # Build absolute paths from repo root for portability across CWDs
-train_data_file = str(REPO_ROOT / 'data' / 'OneObs2D-25k_z0_train-v2.h5')
-test_data_file  = str(REPO_ROOT / 'data' / 'OneObs2D-1.2k_z0_test-v2.h5')
+train_data_file = str(REPO_ROOT / 'data' / 'train_data_file.h5')
+test_data_file  = str(REPO_ROOT / 'data' / 'test_data_file.h5')
 
 pred_data_file  = str(REPO_ROOT / 'inference_utils' / 'unconditional_generation' / 'generated_samples' / 'generated_samples-25k-OneObs2D_ds1_10M_ep1000.h5')
 ckpt_dir        = str(REPO_ROOT / 'ckpts') + '/'
